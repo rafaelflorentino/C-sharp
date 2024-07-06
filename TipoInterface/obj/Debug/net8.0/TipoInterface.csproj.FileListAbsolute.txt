@@ -1,0 +1,14 @@
+C:\Users\Rafael\Desktop\Projetos\C#\TipoInterface\obj\Debug\net8.0\TipoInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\Projetos\C#\TipoInterface\obj\Debug\net8.0\TipoInterface.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\Projetos\C#\TipoInterface\obj\Debug\net8.0\TipoInterface.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\Projetos\C#\TipoInterface\obj\Debug\net8.0\TipoInterface.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\Projetos\C#\TipoInterface\bin\Debug\net8.0\TipoInterface.exe
+C:\Users\Rafael\Desktop\Projetos\C#\TipoInterface\bin\Debug\net8.0\TipoInterface.deps.json
+C:\Users\Rafael\Desktop\Projetos\C#\TipoInterface\bin\Debug\net8.0\TipoInterface.runtimeconfig.json
+C:\Users\Rafael\Desktop\Projetos\C#\TipoInterface\bin\Debug\net8.0\TipoInterface.dll
+C:\Users\Rafael\Desktop\Projetos\C#\TipoInterface\bin\Debug\net8.0\TipoInterface.pdb
+C:\Users\Rafael\Desktop\Projetos\C#\TipoInterface\obj\Debug\net8.0\TipoInterface.dll
+C:\Users\Rafael\Desktop\Projetos\C#\TipoInterface\obj\Debug\net8.0\refint\TipoInterface.dll
+C:\Users\Rafael\Desktop\Projetos\C#\TipoInterface\obj\Debug\net8.0\TipoInterface.pdb
+C:\Users\Rafael\Desktop\Projetos\C#\TipoInterface\obj\Debug\net8.0\TipoInterface.genruntimeconfig.cache
+C:\Users\Rafael\Desktop\Projetos\C#\TipoInterface\obj\Debug\net8.0\ref\TipoInterface.dll

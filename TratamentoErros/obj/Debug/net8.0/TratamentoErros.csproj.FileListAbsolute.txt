@@ -1,0 +1,14 @@
+C:\Users\Rafael\Desktop\Projetos\C#\TratamentoErros\bin\Debug\net8.0\TratamentoErros.exe
+C:\Users\Rafael\Desktop\Projetos\C#\TratamentoErros\bin\Debug\net8.0\TratamentoErros.deps.json
+C:\Users\Rafael\Desktop\Projetos\C#\TratamentoErros\bin\Debug\net8.0\TratamentoErros.runtimeconfig.json
+C:\Users\Rafael\Desktop\Projetos\C#\TratamentoErros\bin\Debug\net8.0\TratamentoErros.dll
+C:\Users\Rafael\Desktop\Projetos\C#\TratamentoErros\bin\Debug\net8.0\TratamentoErros.pdb
+C:\Users\Rafael\Desktop\Projetos\C#\TratamentoErros\obj\Debug\net8.0\TratamentoErros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\Projetos\C#\TratamentoErros\obj\Debug\net8.0\TratamentoErros.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\Projetos\C#\TratamentoErros\obj\Debug\net8.0\TratamentoErros.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\Projetos\C#\TratamentoErros\obj\Debug\net8.0\TratamentoErros.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\Projetos\C#\TratamentoErros\obj\Debug\net8.0\TratamentoErros.dll
+C:\Users\Rafael\Desktop\Projetos\C#\TratamentoErros\obj\Debug\net8.0\refint\TratamentoErros.dll
+C:\Users\Rafael\Desktop\Projetos\C#\TratamentoErros\obj\Debug\net8.0\TratamentoErros.pdb
+C:\Users\Rafael\Desktop\Projetos\C#\TratamentoErros\obj\Debug\net8.0\TratamentoErros.genruntimeconfig.cache
+C:\Users\Rafael\Desktop\Projetos\C#\TratamentoErros\obj\Debug\net8.0\ref\TratamentoErros.dll

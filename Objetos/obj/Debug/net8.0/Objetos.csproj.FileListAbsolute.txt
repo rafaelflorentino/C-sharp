@@ -1,0 +1,14 @@
+C:\Users\Rafael\Desktop\Projetos\C#\Objetos\obj\Debug\net8.0\Objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\Projetos\C#\Objetos\obj\Debug\net8.0\Objetos.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\Projetos\C#\Objetos\obj\Debug\net8.0\Objetos.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\Projetos\C#\Objetos\obj\Debug\net8.0\Objetos.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\Projetos\C#\Objetos\bin\Debug\net8.0\Objetos.exe
+C:\Users\Rafael\Desktop\Projetos\C#\Objetos\bin\Debug\net8.0\Objetos.deps.json
+C:\Users\Rafael\Desktop\Projetos\C#\Objetos\bin\Debug\net8.0\Objetos.runtimeconfig.json
+C:\Users\Rafael\Desktop\Projetos\C#\Objetos\bin\Debug\net8.0\Objetos.dll
+C:\Users\Rafael\Desktop\Projetos\C#\Objetos\bin\Debug\net8.0\Objetos.pdb
+C:\Users\Rafael\Desktop\Projetos\C#\Objetos\obj\Debug\net8.0\Objetos.dll
+C:\Users\Rafael\Desktop\Projetos\C#\Objetos\obj\Debug\net8.0\refint\Objetos.dll
+C:\Users\Rafael\Desktop\Projetos\C#\Objetos\obj\Debug\net8.0\Objetos.pdb
+C:\Users\Rafael\Desktop\Projetos\C#\Objetos\obj\Debug\net8.0\Objetos.genruntimeconfig.cache
+C:\Users\Rafael\Desktop\Projetos\C#\Objetos\obj\Debug\net8.0\ref\Objetos.dll

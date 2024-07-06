@@ -1,0 +1,14 @@
+C:\Users\Rafael\Desktop\Projetos\C#\EstruturasControle\bin\Debug\net8.0\EstruturasControle.exe
+C:\Users\Rafael\Desktop\Projetos\C#\EstruturasControle\bin\Debug\net8.0\EstruturasControle.deps.json
+C:\Users\Rafael\Desktop\Projetos\C#\EstruturasControle\bin\Debug\net8.0\EstruturasControle.runtimeconfig.json
+C:\Users\Rafael\Desktop\Projetos\C#\EstruturasControle\bin\Debug\net8.0\EstruturasControle.dll
+C:\Users\Rafael\Desktop\Projetos\C#\EstruturasControle\bin\Debug\net8.0\EstruturasControle.pdb
+C:\Users\Rafael\Desktop\Projetos\C#\EstruturasControle\obj\Debug\net8.0\EstruturasControle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\Projetos\C#\EstruturasControle\obj\Debug\net8.0\EstruturasControle.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\Projetos\C#\EstruturasControle\obj\Debug\net8.0\EstruturasControle.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\Projetos\C#\EstruturasControle\obj\Debug\net8.0\EstruturasControle.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\Projetos\C#\EstruturasControle\obj\Debug\net8.0\EstruturasControle.dll
+C:\Users\Rafael\Desktop\Projetos\C#\EstruturasControle\obj\Debug\net8.0\refint\EstruturasControle.dll
+C:\Users\Rafael\Desktop\Projetos\C#\EstruturasControle\obj\Debug\net8.0\EstruturasControle.pdb
+C:\Users\Rafael\Desktop\Projetos\C#\EstruturasControle\obj\Debug\net8.0\EstruturasControle.genruntimeconfig.cache
+C:\Users\Rafael\Desktop\Projetos\C#\EstruturasControle\obj\Debug\net8.0\ref\EstruturasControle.dll

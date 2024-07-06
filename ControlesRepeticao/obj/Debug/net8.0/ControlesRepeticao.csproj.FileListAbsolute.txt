@@ -1,0 +1,14 @@
+C:\Users\Rafael\Desktop\Projetos\C#\ControlesRepeticao\bin\Debug\net8.0\ControlesRepeticao.exe
+C:\Users\Rafael\Desktop\Projetos\C#\ControlesRepeticao\bin\Debug\net8.0\ControlesRepeticao.deps.json
+C:\Users\Rafael\Desktop\Projetos\C#\ControlesRepeticao\bin\Debug\net8.0\ControlesRepeticao.runtimeconfig.json
+C:\Users\Rafael\Desktop\Projetos\C#\ControlesRepeticao\bin\Debug\net8.0\ControlesRepeticao.dll
+C:\Users\Rafael\Desktop\Projetos\C#\ControlesRepeticao\bin\Debug\net8.0\ControlesRepeticao.pdb
+C:\Users\Rafael\Desktop\Projetos\C#\ControlesRepeticao\obj\Debug\net8.0\ControlesRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\Projetos\C#\ControlesRepeticao\obj\Debug\net8.0\ControlesRepeticao.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\Projetos\C#\ControlesRepeticao\obj\Debug\net8.0\ControlesRepeticao.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\Projetos\C#\ControlesRepeticao\obj\Debug\net8.0\ControlesRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\Projetos\C#\ControlesRepeticao\obj\Debug\net8.0\ControlesRepeticao.dll
+C:\Users\Rafael\Desktop\Projetos\C#\ControlesRepeticao\obj\Debug\net8.0\refint\ControlesRepeticao.dll
+C:\Users\Rafael\Desktop\Projetos\C#\ControlesRepeticao\obj\Debug\net8.0\ControlesRepeticao.pdb
+C:\Users\Rafael\Desktop\Projetos\C#\ControlesRepeticao\obj\Debug\net8.0\ControlesRepeticao.genruntimeconfig.cache
+C:\Users\Rafael\Desktop\Projetos\C#\ControlesRepeticao\obj\Debug\net8.0\ref\ControlesRepeticao.dll

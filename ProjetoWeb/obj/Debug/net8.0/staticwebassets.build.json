@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "8Nv1xZvSOUfr9sU8VgCPsbm02fPUYPWyejANfogJGRk=",
+  "Source": "ProjetoWeb",
+  "BasePath": "_content/ProjetoWeb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProjetoWeb\\wwwroot",
+      "Source": "ProjetoWeb",
+      "ContentRoot": "C:\\Users\\Rafael\\Desktop\\Projetos\\C#\\ProjetoWeb\\wwwroot\\",
+      "BasePath": "_content/ProjetoWeb",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Rafael\\Desktop\\Projetos\\C#\\ProjetoWeb\\wwwroot\\produtos.html",
+      "SourceId": "ProjetoWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rafael\\Desktop\\Projetos\\C#\\ProjetoWeb\\wwwroot\\",
+      "BasePath": "_content/ProjetoWeb",
+      "RelativePath": "produtos.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\produtos.html"
+    }
+  ]
+}

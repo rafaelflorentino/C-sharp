@@ -1,0 +1,14 @@
+C:\Users\Rafael\Desktop\Projetos\C#\Arquivo\bin\Debug\net8.0\Arquivo.exe
+C:\Users\Rafael\Desktop\Projetos\C#\Arquivo\bin\Debug\net8.0\Arquivo.deps.json
+C:\Users\Rafael\Desktop\Projetos\C#\Arquivo\bin\Debug\net8.0\Arquivo.runtimeconfig.json
+C:\Users\Rafael\Desktop\Projetos\C#\Arquivo\bin\Debug\net8.0\Arquivo.dll
+C:\Users\Rafael\Desktop\Projetos\C#\Arquivo\bin\Debug\net8.0\Arquivo.pdb
+C:\Users\Rafael\Desktop\Projetos\C#\Arquivo\obj\Debug\net8.0\Arquivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\Projetos\C#\Arquivo\obj\Debug\net8.0\Arquivo.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\Projetos\C#\Arquivo\obj\Debug\net8.0\Arquivo.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\Projetos\C#\Arquivo\obj\Debug\net8.0\Arquivo.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\Projetos\C#\Arquivo\obj\Debug\net8.0\Arquivo.dll
+C:\Users\Rafael\Desktop\Projetos\C#\Arquivo\obj\Debug\net8.0\refint\Arquivo.dll
+C:\Users\Rafael\Desktop\Projetos\C#\Arquivo\obj\Debug\net8.0\Arquivo.pdb
+C:\Users\Rafael\Desktop\Projetos\C#\Arquivo\obj\Debug\net8.0\Arquivo.genruntimeconfig.cache
+C:\Users\Rafael\Desktop\Projetos\C#\Arquivo\obj\Debug\net8.0\ref\Arquivo.dll

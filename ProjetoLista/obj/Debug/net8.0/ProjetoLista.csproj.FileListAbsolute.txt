@@ -1,0 +1,14 @@
+C:\Users\Rafael\Desktop\Projetos\C#\ProjetoLista\bin\Debug\net8.0\ProjetoLista.exe
+C:\Users\Rafael\Desktop\Projetos\C#\ProjetoLista\bin\Debug\net8.0\ProjetoLista.deps.json
+C:\Users\Rafael\Desktop\Projetos\C#\ProjetoLista\bin\Debug\net8.0\ProjetoLista.runtimeconfig.json
+C:\Users\Rafael\Desktop\Projetos\C#\ProjetoLista\bin\Debug\net8.0\ProjetoLista.dll
+C:\Users\Rafael\Desktop\Projetos\C#\ProjetoLista\bin\Debug\net8.0\ProjetoLista.pdb
+C:\Users\Rafael\Desktop\Projetos\C#\ProjetoLista\obj\Debug\net8.0\ProjetoLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\Projetos\C#\ProjetoLista\obj\Debug\net8.0\ProjetoLista.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\Projetos\C#\ProjetoLista\obj\Debug\net8.0\ProjetoLista.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\Projetos\C#\ProjetoLista\obj\Debug\net8.0\ProjetoLista.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\Projetos\C#\ProjetoLista\obj\Debug\net8.0\ProjetoLista.dll
+C:\Users\Rafael\Desktop\Projetos\C#\ProjetoLista\obj\Debug\net8.0\refint\ProjetoLista.dll
+C:\Users\Rafael\Desktop\Projetos\C#\ProjetoLista\obj\Debug\net8.0\ProjetoLista.pdb
+C:\Users\Rafael\Desktop\Projetos\C#\ProjetoLista\obj\Debug\net8.0\ProjetoLista.genruntimeconfig.cache
+C:\Users\Rafael\Desktop\Projetos\C#\ProjetoLista\obj\Debug\net8.0\ref\ProjetoLista.dll

@@ -22,7 +22,7 @@ class Program
 
             using(SqlConnection conexao = new SqlConnection(builder.ConnectionString)){
 
-                string sql = "SELECT  * FROM  tb_clientes";
+                string sql = "USE master; SELECT  * FROM  clientes";
 
                 using(SqlCommand comando = new SqlCommand(sql, conexao)){
 
@@ -32,14 +32,15 @@ class Program
 
                         while(leitor.Read()){
                         // 1° Forma de pegar os dados
-                        /*  System.Console.WriteLine("id: {0}", leitor["id"]);
+                            System.Console.WriteLine("id: {0}", leitor["id"]);
                             System.Console.WriteLine("nome: {0}", leitor["nome"]);
-                            System.Console.WriteLine("email: {0}", leitor["email"]); */
+                            System.Console.WriteLine("email: {0}", leitor["email"]); 
 
                         // 2° Forma de pegar os dados
+                        /*  
                             System.Console.WriteLine("id: {0}", leitor.GetSqlInt32(0));
                             System.Console.WriteLine("nome: {0}", leitor.GetSqlString(0));
-                            System.Console.WriteLine("email: {0}", leitor.GetSqlString(0));
+                            System.Console.WriteLine("email: {0}", leitor.GetSqlString(0));*/
                         }
                     }
 

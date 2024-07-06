@@ -20,3 +20,4 @@ C:\Users\Rafael\Desktop\Projetos\C#\ProjetoClientes\obj\Debug\net8.0\refint\Proj
 C:\Users\Rafael\Desktop\Projetos\C#\ProjetoClientes\obj\Debug\net8.0\ProjetoClientes.pdb
 C:\Users\Rafael\Desktop\Projetos\C#\ProjetoClientes\obj\Debug\net8.0\ProjetoClientes.genruntimeconfig.cache
 C:\Users\Rafael\Desktop\Projetos\C#\ProjetoClientes\obj\Debug\net8.0\ref\ProjetoClientes.dll
+C:\Users\Rafael\Desktop\Projetos\C#\ProjetoClientes\obj\Debug\net8.0\ProjetoClientes.sourcelink.json

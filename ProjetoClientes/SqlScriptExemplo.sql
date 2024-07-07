@@ -10,4 +10,6 @@ insert into clientes values (2,'Benja', 'benja@senai.edu.br');
 
 insert into clientes values (3,'Cezar', 'cezar@senai.edu.br');
 
+insert into clientes values (4,'Bio', 'bio@senai.edu.br');
+
 select * from clientes;

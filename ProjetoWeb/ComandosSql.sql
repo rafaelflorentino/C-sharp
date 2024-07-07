@@ -5,9 +5,6 @@ EXEC sp_help 'clientes';
 USE projetoclientes;
 GO
 
--- Verificar se a tabela existe
-USE projetoclientes;
-
 -- Verifica se a tabela existe
 IF OBJECT_ID('clientes', 'U') IS NOT NULL
     PRINT 'A tabela clientes existe no banco de dados.';
